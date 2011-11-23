@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.grails.plugins</groupId>
+  <artifactId>aws</artifactId>
+  <version>1.2.12.1.p1</version>
+  <versioning>
+    <versions>
+      <version>1.2.12.1.p1</version>
+    </versions>
+    <lastUpdated>20111123161026</lastUpdated>
+  </versioning>
+</metadata>
