@@ -1,0 +1,24 @@
+<plugin name='cookie-session' version='0.1.2' grailsVersion='1.2.4 &gt; *'>
+  <author>Masatoshi Hayashi</author>
+  <authorEmail>literalice@monochromeroad.com</authorEmail>
+  <title>Cookie Session Plugin</title>
+  <description>This plugin allows you to store the session data in a cookie</description>
+  <documentation>http://grails.org/plugin/cookie-session</documentation>
+  <type>CookieSessionGrailsPlugin</type>
+  <resources />
+  <repositories>
+    <repository name='grailsCentral' url='http://plugins.grails.org' />
+    <repository name='http://repo.grails.org/grails/plugins' url='http://repo.grails.org/grails/plugins/' />
+    <repository name='http://repo.grails.org/grails/core' url='http://repo.grails.org/grails/core/' />
+    <repository name='grailsCore' url='http://svn.codehaus.org/grails/trunk/grails-plugins' />
+    <repository name='mavenCentral' url='http://repo1.maven.org/maven2/' />
+  </repositories>
+  <dependencies />
+  <plugins>
+    <compile>
+      <plugin group='org.grails.plugins' name='webxml' version='1.4.1' />
+    </compile>
+  </plugins>
+  <runtimePluginRequirements />
+  <behavior />
+</plugin>
